@@ -1,0 +1,10 @@
+Version 1.2.4U
+
+-> Unofficial update for 0.96 by Pet Mudstone.
+-> Most ships have been given "ind" and "merc" tags where applicable so that they appear in independent, scavenger, and mercenary fleets.
+-> Ships and weapons are all explictly added to non-independent .faction files now according to 0.96 changes to doctrine. Tri-Tachyon gets High-Tech ships as well as most of the energy weapons, Diktat and League get Midline ships, etc.
+-> Scavengers no longer field "kadur_mining_bp" (the "mining-tech" line: Spades, Badgers, etc.) with increased frequency. It should be noted that scav fleets still use a lot of "mining-tech" ships in their fleets with this change, likely due to vanilla ship composition defintions.
+-> Spade commonality in default_ship_roles.json halved. so that they appear in less-absurd amounts.
+-> Derelict vessels now have the AUTO_REC tag so you can recover them with the appropriate skill.
+-> Luddic Church no longer uses normal Buffalo Mk. IIs since they have their own version.
+-> Changelog has been started over due to how the previous versioning scheme covered all three of Vayra's mods, which made it confusing when referring to individual mods.
