@@ -1,0 +1,42 @@
+{
+	# All ships and items are explicitly added now. - PM
+	"hullFrequency":{
+		"hulls":{	
+			"vayra_tyrant":0.5,	# doesn't fit hegemony doctrine that well
+		},
+	},
+	"priorityShips":{
+		"hulls":[
+			"vayra_tyrant", # Vayra did this herself but just so ya know it's needed cuz the Hegemony has Legions and Onslaughts as priority - PM
+		],
+	},
+	#Explicitly adding ships and weapons below - PM.
+	"knownShips":{
+		"hulls":[
+			"vayra_henchman",
+			"vayra_spade",
+			
+			"vayra_greyhound",
+			"vayra_bruiser",
+			"vayra_hatchetman",
+			
+			"vayra_intimidator",
+			"vayra_persecutor",
+			"vayra_tarsus_ii",
+			
+			"vayra_oppressor",
+			"vayra_subjugator",
+			
+			"vayra_tyrant",
+		],
+	},
+	"knownWeapons":{
+		"weapons":[
+			"vayra_annihilator_rack",
+			"vayra_harvester_rack",
+			
+			"vayra_precision_mortar",
+			"vayra_shortcircuit_driver",
+		],
+	},
+}

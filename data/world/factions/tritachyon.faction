@@ -1,0 +1,46 @@
+{
+	# New file as to explicitly add ships and weapons due to 0.96 doctrine changes. - PM
+	"knownShips":{
+		"hulls":[
+			"vayra_henchman",
+			"vayra_spade",
+		
+			"vayra_clairvoyant",
+			"vayra_direwolf",
+			"vayra_exemplar",
+			"vayra_hail",
+			"vayra_pinnacle",
+			"vayra_ruin",
+			"vayra_seer",
+			"vayra_typhon",
+		],
+	},
+	 "priorityShips":{
+        "hulls":[
+            # Compat with Ship/Weapon Pack's features to allow carriers to spawn in Tri-Tach fleets. - PM
+            "vayra_clairvoyant",
+            "vayra_seer",
+        ],
+    },
+	"knownFighters":{
+		"fighters":[
+			"vayra_caliban_wing",
+			"vayra_tac_drone_wing",
+		],
+	},
+	"knownWeapons":{
+		"weapons":[
+			"vayra_annihilator_rack",
+			"vayra_harvester_rack",
+			
+			"vayra_combat_laser",
+			"vayra_degraded_pulselaser",
+			"vayra_grav_blaster",
+			"vayra_ion_scatterer",
+			"vayra_light_cutter",
+			"vayra_particle_beam",
+			"vayra_phase_blaster",
+			"vayra_shortcircuit_driver",
+		],
+	},
+}

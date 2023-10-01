@@ -1,0 +1,37 @@
+{
+	# All ships and items are explicitly added now. - PM
+	"hullFrequency":{
+		"hulls":{	
+			"vayra_tyrant":0.2,	# doesn't fit CGR doctrine that well
+			"buffalo2":0, # You got your own Buffalos Mk. IIs, dingus - PM
+		},
+	},
+	#Explicitly adding ships and weapons below, not really necessary but just being safe - PM.
+	"knownShips":{
+		"hulls":[
+			"vayra_spade",
+		
+			"vayra_tarsus_ii",
+			"vayra_bruiser_lc",
+			"vayra_hatchetman",
+			"vayra_greyhound",
+			
+			"vayra_intimidator_lc",
+			"vayra_oppressor_lc",
+			"vayra_buffalo_lc",
+			"vayra_tyrant",
+			"vayra_subjugator",
+			"vayra_persecutor",
+		],
+	},
+	"knownWeapons":{
+		"weapons":[
+			"vayra_annihilator_rack",
+			"vayra_hammer_pod",
+			"vayra_harvester_rack",
+			
+			"vayra_light_cutter",
+			"vayra_precision_mortar",
+		],
+	},
+}

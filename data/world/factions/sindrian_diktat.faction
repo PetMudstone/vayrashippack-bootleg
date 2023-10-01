@@ -1,0 +1,29 @@
+{
+	# New file as to explicitly add ships and weapons due to 0.96 doctrine changes. - PM
+	"knownShips":{
+		"hulls":[
+			"vayra_henchman",
+			"vayra_spade",
+		
+			"vayra_kingfisher",
+			"vayra_swordsman",
+			
+			"vayra_huntress",
+		],
+	},
+	"knownWeapons":{
+		"weapons":[
+			"vayra_annihilator_rack",
+			"vayra_harvester_rack",
+			
+			"vayra_precision_mortar",
+			"vayra_shortcircuit_driver",
+			
+			"vayra_combat_laser",
+			"vayra_degraded_pulselaser",
+			"vayra_grav_blaster",
+			"vayra_ion_scatterer",
+			"vayra_phase_blaster",
+		],
+	},
+}

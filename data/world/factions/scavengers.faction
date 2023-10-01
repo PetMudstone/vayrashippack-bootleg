@@ -1,0 +1,31 @@
+{
+	"shipNameSources":{
+		"REVOLUTIONARY":1,
+		"PIRATES":1,
+		"MERCANTILE":1,
+	},
+	"names":{
+		"fringe":1,
+		"pirate":1,
+		"modern":1,
+	},
+	# multiplier for how often hulls show up in the faction's fleets
+	"hullFrequency":{
+		"tags":{
+			#"kadur_mining_bp":1.5, Commenting out since Vayra's prospecting ships appear enough as is. - PM.
+		},
+	},
+	# ships the faction gets access to when importing S&W out-of-faction
+	"shipsWhenImporting":{
+		#"tags":["scavengers", "kadur_mining_bp"], They already get all of this due to "ind" tags - PM
+	},
+	"knownShips":{
+		"tags":["kadur_mining_bp"],
+		"hulls":[
+			"vayra_mining_hound", #Explicitly added since it makes sense for them to have - PM
+		],
+	},
+	"knownWeapons":{
+		"tags":["kadur_mining_bp"],
+	},
+},	
