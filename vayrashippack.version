@@ -1,11 +1,14 @@
 {
     "masterVersionFile":"https://raw.githubusercontent.com/PetMudstone/vayrashippack-bootleg/main/vayrashippack.version",
     "modName":"Vayra's Ship Pack",
-    #"modThreadId":16059,
+    "modThreadId":16059,
     "modVersion":
     {
         "major":1,
         "minor":2,
         "patch":4U
     },
+	
+	#Link towards a direct download, fetched from the online version file
+	"directDownloadURL":"https://github.com/PetMudstone/vayrashippack-bootleg/releases/latest/download/vayrashippack-bootleg.zip",
 }
