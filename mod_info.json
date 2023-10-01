@@ -2,7 +2,7 @@
 	"id":"vayrashippack",
 	"name":"Vayra's Ship Pack",
 	"author":"Vayra",
-	"version":"1.2.4", # GO UPDATE YOUR VERSION FILE (as the last thing you do before uploadin cuz otherwise... heh)
+	"version":"1.2.4U", # GO UPDATE YOUR VERSION FILE (as the last thing you do before uploadin cuz otherwise... heh)
 	"description":"Ships and weapons for your combat & campaign pleasure. Integrates with Vayra's Sector for additional content. Requires LazyLib.",
 	"gameVersion":"0.96a-RC10",
 	"jars":["jars/VayraShipPack.jar"],
